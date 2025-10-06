@@ -1,0 +1,5 @@
+{
+  "name": "Product Inventory Viewer",
+  "description": "An elegant web application to display product inventory from a CSV file, featuring product details, image galleries, and stock availability.",
+  "requestFramePermissions": []
+}
